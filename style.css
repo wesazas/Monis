@@ -121,10 +121,7 @@ main {
   height: 270px;
   font-family: "Exo 2", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  transition: all .75s;
-  text-align: center;
+
 }
 
 .letter {
